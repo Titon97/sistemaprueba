@@ -136,7 +136,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
             </a>
           </li>
           <li class="nav-item">
-            <a onclick="cargar_contenido('contenido_principal','area/view_area.php')" class="nav-link">
+            <a onclick="cargar_contenido('contenido_principal','estado_civil/estado_civil.php')" class="nav-link">
               <i class="nav-icon fas fa-th"></i>
               <p>
                 Estado Civil
@@ -152,7 +152,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
             </a>
           </li>
           <li class="nav-item">
-            <a onclick="cargar_contenido('contenido_principal','tipo_documento/view_tipodocumento.php')" class="nav-link">
+            <a onclick="cargar_contenido('contenido_principal','departamentos/departamentos.php')" class="nav-link">
               <i class="nav-icon fas fa-th"></i>
               <p>
                 Departamentos
@@ -176,7 +176,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
             </a>
           </li>
           <li class="nav-item">
-            <a onclick="cargar_contenido('contenido_principal','tipo_documento/view_tipodocumento.php')" class="nav-link">
+            <a onclick="cargar_contenido('contenido_principal','universidades/universidades.php')" class="nav-link">
               <i class="nav-icon fas fa-th"></i>
               <p>
                 Universidades
@@ -192,7 +192,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
             </a>
           </li>
           <li class="nav-item">
-            <a onclick="cargar_contenido('contenido_principal','tipo_documento/view_tipodocumento.php')" class="nav-link">
+            <a onclick="cargar_contenido('contenido_principal','grados/grados.php')" class="nav-link">
               <i class="nav-icon fas fa-th"></i>
               <p>
                 Grados
